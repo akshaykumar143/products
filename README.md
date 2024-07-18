@@ -3,9 +3,11 @@
 database 
 stored in db/db.sql
 --------------------
+ create a new user and add prioduct
 
-username 
-akshay@getnada.com  
 
-password
-123456# products
+ #/ php -S localhost:8088
+
+
+ visit http://localhost:8088/
+
